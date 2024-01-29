@@ -6,13 +6,15 @@
 </div>
 <br />
 
-<h2>Medium</h2>
+<h2>📄 Medium</h2>
 
-[Throttling and Recoil-프로젝트에 적용된 프론트엔드 기술](https://medium.com/@nakyung.ahn.03/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%EB%90%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0-6b63e9dcce4a)
+🤍 [Throttling and Recoil-프로젝트에 적용된 프론트엔드 기술](https://medium.com/@nakyung.ahn.03/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%EB%90%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0-6b63e9dcce4a)
+<br />
+🖤 [Backend](https://medium.com/@nakyung.ahn.03/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%EB%90%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0-6b63e9dcce4a)
 
 <br />
 
-<h2>Demo</h2>
+<h2>🖥️ Demo</h2>
 <h3>메인페이지</h3>
 메인 새로고침하고 스크롤 내려서 푸터 위까지만 보여주기
 <br />
@@ -38,12 +40,12 @@
 <br />
 <br />
 
-<h2>System Architechture</h2>
+<h2>📱 System Architechture</h2>
 <img src="https://ifh.cc/g/YMSGMf.jpg"/>
 <br />
 <br />
 
-<h2>Tech Stack</h2>
+<h2>🛠️ Tech Stack</h2>
 <div align=center>
 <h4>Frontend</h4>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
@@ -91,19 +93,19 @@
 
 <br />
 
-<h2>ERD</h2>
+<h2>🗝️ ERD</h2>
 <br />
 <br />
-<h2>API</h2>
+<h2>📁 API</h2>
 <br />
 <br />
-<h2>Monitoring</h2>
+<h2>🔍 Monitoring</h2>
 <br />
 <br />
-<h2>How to Start</h2>
+<h2>📓 How to Start</h2>
 <br />
 <br />
-<h2>Directory Structure</h2>
+<h2>📂 Directory Structure</h2>
 <br />
 <br />
 <h2>Member</h2>
