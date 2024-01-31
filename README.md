@@ -41,7 +41,7 @@
 <br />
 
 <h2>📱 System Architechture</h2>
-<img src="[https://ifh.cc/g/YMSGMf.jpg](https://ifh.cc/g/6ccb2N.jpg)"/>
+<img src="https://ifh.cc/g/6ccb2N.jpg"/>
 <br />
 <br />
 
