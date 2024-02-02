@@ -33,11 +33,11 @@
 
 <h3>면접페이지</h3>
 
-음성면접
+<b>음성면접</b>
 
 ![면접선택](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/86b64702-434a-4c3d-921e-9c1e49165d38)
 
-화상면접
+<b>화상면접</b>
 
 ![화상면접gif](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/a73361b8-2c29-45b9-b2d4-5d1a7da03b98)
 
