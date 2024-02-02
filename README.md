@@ -43,7 +43,6 @@
 
 <br />
 <br />
-
 <h3>결과</h3>
 
 ![면접결과](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/0a55c5c5-d805-4191-a6ab-c783bf3a9e1b)
