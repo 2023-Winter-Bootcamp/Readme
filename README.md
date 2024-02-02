@@ -109,8 +109,8 @@
 <h2>Member</h2>
 
 | Name | 박진우 | 황승기 | 신윤정 | 최세엽 | 지영란 | 박주한 | 안나경 |
-|-----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| Profile | 값2  | 값3  | 값4  | 값5  | 값6  | 값7  | 값8  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| Profile | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> | <img src=""/> |
 | Position | Leader<br />Backend | Backend<br />DevOps | Backend | Backend | Backend | Frontend | Frontend |
 | Github | [@nagosu](https://github.com/nagosu) | [@Seungkiii](https://github.com/Seungkiii) | [@syxxnjeong](https://github.com/syxxnjeong) | [@non-cpu](https://github.com/non-cpu) | [@Iana74](https://github.com/Iana74) | [@Juice-Han](https://github.com/Juice-Han) | [@Ahnnakyung](https://github.com/Ahnnakyung) |
 
