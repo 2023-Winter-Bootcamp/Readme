@@ -43,7 +43,7 @@
 <br />
 
 <h2>📱 System Architechture</h2>
-<img src="https://ifh.cc/g/6ccb2N.jpg"/>
+<img src="https://ifh.cc/g/JQmxS6.jpg"/>
 <br />
 <br />
 
@@ -77,7 +77,6 @@
 <h4>Monitoring</h4>
 <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
-<img src="https://img.shields.io/badge/cAdvisor-2E2E2E?style=for-the-badge&logo=google&logoColor=white">
 <br />
 <br />
 <h4>etc</h4>
