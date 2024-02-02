@@ -45,7 +45,9 @@
 <br />
 
 <h3>결과</h3>
-마이페이지 가서 면접 모음들 가로스크롤 한번 해주고, 클릭해서 결과창 다시 볼 수 있게 데모
+
+![면접결과](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/0a55c5c5-d805-4191-a6ab-c783bf3a9e1b)
+
 <br />
 <br />
 
