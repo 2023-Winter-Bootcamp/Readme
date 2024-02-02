@@ -103,12 +103,12 @@
 <h2>🔍 Monitoring</h2>
 <br />
 <br />
-<h2>📓 How to Start</h2>
+<!-- <h2>📓 How to Start</h2>
 <br />
 <br />
 <h2>📂 Directory Structure</h2>
 <br />
-<br />
+<br /> -->
 <h2>Member</h2>
 <br />
 <br />
