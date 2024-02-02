@@ -8,10 +8,12 @@
 
 <h2>📄 Medium</h2>
 
+📄 [GitHub기반 AI면접 사이트-Giterview](https://medium.com/@nakyung.ahn.03/github%EA%B8%B0%EB%B0%98-ai%EB%A9%B4%EC%A0%91-%EC%82%AC%EC%9D%B4%ED%8A%B8-giterview-51abb1fb505d)
+<br />
 🤍 [Throttling and Recoil-프로젝트에 적용된 프론트엔드 기술](https://medium.com/@nakyung.ahn.03/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%EB%90%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0-6b63e9dcce4a)
 <br />
-🖤 [Backend](https://medium.com/@nakyung.ahn.03/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%A0%81%EC%9A%A9%EB%90%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B8%B0%EC%88%A0-6b63e9dcce4a)
-
+🖤 [Backend](https://medium.com/@nakyung.ahn.03/github%EA%B8%B0%EB%B0%98-ai%EB%A9%B4%EC%A0%91-%EC%82%AC%EC%9D%B4%ED%8A%B8-giterview-51abb1fb505d)
+<br />
 <br />
 
 <h2>🖥️ Demo</h2>
