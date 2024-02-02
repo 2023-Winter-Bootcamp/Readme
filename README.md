@@ -104,10 +104,13 @@
 <h2>🔍 Monitoring</h2>
 <br />
 <br />
-<!-- <h2>📓 How to Start</h2>
+<h2>📓 How to Start</h2>
+<h3>Clone Repository</h3>
 <br />
+<h3>Run Docker</h3>
+<p>$docker compose up --build</p>
 <br />
-<h2>📂 Directory Structure</h2>
+<!-- <h2>📂 Directory Structure</h2>
 <br />
 <br /> -->
 <h2>Member</h2>
