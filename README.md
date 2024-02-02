@@ -14,12 +14,14 @@
 
 <h2>🖥️ Demo</h2>
 <h3>메인페이지</h3>
-메인 새로고침하고 스크롤 내려서 푸터 위까지만 보여주기
+
+![메인페이지gif](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/c4e60bce-c938-4679-8b2a-d7bb268cec31)
 <br />
 <br />
 
 <h3>내 깃허브 가기 및 이력서 등록</h3>
-내 깃허브로 가지는 거 한번 보여주고 메인에서 이력서 등록하는 거 보여주기
+
+![이력서등록gif](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/363e5e0b-0f59-4d83-bc3d-436d3f5db7e6)
 <br />
 <br />
 
