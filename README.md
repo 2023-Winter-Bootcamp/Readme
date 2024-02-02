@@ -26,12 +26,14 @@
 <br />
 
 <h3>마이페이지</h3>
-마이페이지에서 이력서 등록하고 뜨는 거 보여주기(이력서들 여러 개 등록해서 스크롤 되는 거까지)
+
+![이력서스크롤gif](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/7e4e905d-eabf-48e6-90bf-24287a81ae62)
 <br />
 <br />
 
 <h3>면접페이지</h3>
-면접선택하고 화상 면접, 음성 면접 하는 거 데모따서 올려놓기
+
+![면접선택gif](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/86b64702-434a-4c3d-921e-9c1e49165d38)
 <br />
 <br />
 
