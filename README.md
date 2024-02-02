@@ -107,10 +107,14 @@
 <br />
 <br />
 <h2>📁 API</h2>
-<br />
+<img src="https://ifh.cc/g/VOjJrm.png"/>
+<img src="https://ifh.cc/g/2tmF0x.png"/>
 <br />
 <h2>🔍 Monitoring</h2>
-<br />
+<h3>django</h3>
+<img src="https://ifh.cc/g/l0Snyg.jpg"/>
+<h3>node-exporter</h3>
+<img src="https://ifh.cc/g/L9H5W3.jpg"/>
 <br />
 <h2>📓 How to Start</h2>
 <h3>Clone Repository</h3>
