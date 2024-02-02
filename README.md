@@ -15,13 +15,13 @@
 <h2>🖥️ Demo</h2>
 <h3>메인페이지</h3>
 
-![메인페이지gif](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/c4e60bce-c938-4679-8b2a-d7bb268cec31)
+![메인페이지](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/c4e60bce-c938-4679-8b2a-d7bb268cec31)
 <br />
 <br />
 
 <h3>내 깃허브 가기 및 이력서 등록</h3>
 
-![이력서등록gif](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/363e5e0b-0f59-4d83-bc3d-436d3f5db7e6)
+![이력서등록](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/363e5e0b-0f59-4d83-bc3d-436d3f5db7e6)
 <br />
 <br />
 
@@ -33,7 +33,14 @@
 
 <h3>면접페이지</h3>
 
-![면접선택gif](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/86b64702-434a-4c3d-921e-9c1e49165d38)
+음성면접
+
+![면접선택](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/86b64702-434a-4c3d-921e-9c1e49165d38)
+
+화상면접
+
+![화상면접gif](https://github.com/2023-Winter-Bootcamp/Readme/assets/107741495/a73361b8-2c29-45b9-b2d4-5d1a7da03b98)
+
 <br />
 <br />
 
